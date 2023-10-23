@@ -1,8 +1,10 @@
-💻   About Me :
+💻 ##  About Me :
+
 I am a Full Stack Developer & open source tech enthusiast  from Chennai, India.
 
-I’m working as a Senior IT consultant and building large scale web applications.
-Authoring and blogging about emerging technologies.
+-I’m working as a Senior IT consultant and building large scale web applications.
+
+-Authoring and blogging about emerging technologies.
 
 Skills:  NET Core | Web API | C# | ASP.NET | SQL | Javascript | Jquery | HTML | Linq | REST APIs | Git hub 
 
